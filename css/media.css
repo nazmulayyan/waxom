@@ -1,0 +1,394 @@
+@media(min-width:1200px) and (max-width:1399px){
+    .service-item p {
+        font-size: 13px;
+    }
+}
+@media(min-width:992px) and (max-width:1199px){
+    .banner-content h1 {
+        font-size: 47px;
+    }
+    .banner-content p {
+        font-size: 15px;
+    }
+    .service-item p {
+        font-size: 13px;
+    }
+    .head p {
+        font-size: 15px;
+    }
+    .project-text h4 {
+        font-size: 18px;
+    }
+    .project-text p {
+        font-size: 15px;
+    }
+}
+@media(min-width:768px) and (max-width:991.98px){
+    .navbar-toggler{
+        color: #fff;
+        font-size: 20px;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .navbar-nav {
+        background-color: #362F2D;
+        margin-top: 15px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-left: 0;
+        line-height: 30px;
+        text-align: center;
+    }
+    .bg.navbar-expand-lg .navbar-nav .nav-link {
+        line-height: 30px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link:hover {
+        
+        background-color: #11749E;
+    }
+    .service-item{
+        margin-bottom: 40px;
+    }
+    .copyright p {
+        font-size: 11px;
+    }
+}
+@media(min-width:576px) and (max-width:767.98px){
+    .navbar-toggler{
+        color: #fff;
+        font-size: 20px;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .navbar-nav {
+        background-color: #362F2D;
+        margin-top: 15px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-left: 0;
+        line-height: 30px;
+        text-align: center;
+    }
+    .bg.navbar-expand-lg .navbar-nav .nav-link {
+        line-height: 30px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link:hover {
+        
+        background-color: #11749E;
+    }
+    .banner-content h3 {
+        font-size: 37px;
+    }
+    .banner-content h1 {
+        font-size: 44px;
+    }
+    .banner-content p {
+        font-size: 17px;
+        line-height: 22px;
+    }
+    .banner-text {
+        height: 90vh;
+    }
+    #banner {
+        height: 90vh;
+    }
+    #service {
+        padding-top: 20px;
+    }
+    .service-item{
+        margin-bottom: 30px;
+    }
+    .service-item h3 {
+        padding-top: 5px;
+        padding-bottom: 0px;
+    }
+    .service-item p {
+        line-height: 20px;
+        padding-bottom: 10px;
+    }
+    .service-item p {
+        font-size: 13px;
+    }
+    .service-item p::after {
+        bottom: -10px;
+    }
+    #project {
+        padding-top: 35px;
+        padding-bottom: 50px;
+    }
+    .head p {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .project-text h4 {
+        font-size: 17px;
+    }
+    .nav-pills .nav-link {
+        font-size: 12px;
+        padding: 10px 17px;
+        margin-bottom: 10px;
+    }
+    .pro-menu {
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+    .button {
+        padding-top: 19px;
+    }
+    .nav-pills .nav-link {
+        margin: 0 3px;
+    }
+    #recent .project-text h4 {
+        font-size: 15px;
+    }
+    #recent .project-text p {
+        font-size: 12px;
+    }
+    .funfact-item{
+        margin-bottom: 20px;
+    }
+    .copyright p {
+        font-size: 14px;
+        text-align: left;
+    }
+    .copyright {
+        padding-top: 22px;
+        padding-bottom: 7px;
+    }
+}
+@media(max-width:575.98px){
+    .navbar-toggler{
+        color: #fff;
+        font-size: 20px;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .navbar-nav {
+        background-color: #362F2D;
+        margin-top: 15px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-left: 0;
+        line-height: 30px;
+        text-align: center;
+    }
+    .bg.navbar-expand-lg .navbar-nav .nav-link {
+        line-height: 30px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link:hover {
+        
+        background-color: #11749E;
+    }
+    .banner-content h3 {
+        font-size: 22px;
+    }
+    .banner-content h1 {
+        font-size: 26px;
+    }
+    .banner-content p {
+        font-size: 11px;
+        line-height: 18px;
+    }
+    #banner {
+        height: 80vh;
+    }
+    .banner-text {
+        height: 84vh;
+    }
+    #service {
+        padding-top: 20px;
+    }
+    .service-item{
+        margin-bottom: 30px;
+    }
+    .service-item h3 {
+        padding-top: 5px;
+        padding-bottom: 0px;
+    }
+    .service-item p {
+        line-height: 20px;
+        padding-bottom: 5px;
+    }
+    .service-item p::after {
+        bottom: -10px;
+    }
+    #project {
+        padding-top: 35px;
+        padding-bottom: 50px;
+    }
+    .head p {
+        font-size: 12px;
+        line-height: 20px;
+    }
+    .nav-pills .nav-link {
+        font-size: 12px;
+        padding: 10px 17px;
+        margin-bottom: 10px;
+    }
+    .pro-menu {
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+    .button {
+        padding-top: 19px;
+    }
+    .vid-banner {
+        height: 75vh;
+    }
+    .vid-text i {
+        width: 60px;
+        height: 60px;
+        line-height: 67px;
+        font-size: 45px;
+    }
+    .vid-text h3 {
+        font-size: 22px;
+    }
+    .vid-text p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    #funfact {
+        padding: 30px 0 30px 0;
+    }
+    .funfact-item{
+        margin-bottom: 10px;
+    }
+    .funfact-item {
+        margin-bottom: 30px;
+    }
+    .funfact-item h3 {
+        padding-top: 0px;
+    }
+    .funfact-item p {
+        padding-top: 5px;
+    }
+    #recent {
+        padding: 40px 0 40px 0;
+    }
+    #recent .head p {
+        font-size: 13px;
+    }
+    .project-text h4 {
+        font-size: 18px;
+    }
+    .project-text {
+        padding: 15px 0px 10px 30px;
+    }
+    #recent .project-text p {
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 300;
+        font-size: 11px;
+        color: #d1d1d1;
+        padding-top: 5px;
+        transition: all linear .3s;
+    }
+    #footer {
+        padding: 30px 0 30px 0;
+    }
+    .fot-left p {
+        padding-top: 10px;
+        font-size: 13px;
+    }
+    .fot-left a {
+        padding-top: 0px;
+    }
+    .mid1-head {
+        padding-bottom: 10px;
+    }
+    .foot-top {
+        padding-bottom: 10px;
+    }
+    .foot-mid {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .foot-bottom {
+        padding-top: 10px;
+    }
+    .fot-mid1 a {
+        font-size: 12px;
+    }
+    .twitter a {
+        font-size: 13px;
+    }
+    .twitter-mid {
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+    .twitter-bottom {
+        padding-top: 5px;
+    }
+
+    .copyright p {
+        font-size: 9px;
+    }
+    .text-end {
+        text-align: left !important;
+    }
+    .copyright {
+        padding-top: 15px;
+        padding-bottom: 0px;
+    }
+}
+@media(width:480px){
+    .banner-content h3 {
+        font-size: 30px;
+    }
+    .banner-content h1 {
+        font-size: 36px;
+    }
+    .banner-content p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .service-item p {
+        font-size: 16px;
+    }
+    .service-item p {
+        line-height: 24px;
+    }
+    .head p {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .nav-pills .nav-link {
+        font-size: 14px;
+    }
+    #recent .project-text p {
+        font-size: 12px;
+    }
+    .copyright p {
+        font-size: 13px;
+    }
+}
+@media(width:575px){
+    .banner-content h3 {
+        font-size: 37px;
+    }
+    .banner-content h1 {
+        font-size: 44px;
+    }
+    .banner-content p {
+        font-size: 17px;
+        line-height: 22px;
+    }
+    .banner-text {
+        height: 90vh;
+    }
+    #banner {
+        height: 90vh;
+    }
+    .service-item p {
+        padding: 0 76px;
+    }
+    .vid-text p {
+        font-size: 15px;
+    }
+    .copyright p {
+        font-size: 13px;
+    }
+}
